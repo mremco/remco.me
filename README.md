@@ -1,2 +1,2 @@
 # remco.me
-Static website copied from remco.me
+Ancient static website copied from remco.me
